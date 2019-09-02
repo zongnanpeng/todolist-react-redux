@@ -1,3 +1,4 @@
-#todolist(react + redux)
+# todolist(react + redux)
 ## 项目简介
-    该项目是react+redux的练习项目，框架选用react和redux，数据模拟使用easy-mock,数据交互使用axios，页面设计采用antd，基础技术采用 html5 css3 es6
+    该项目是react+redux的练习项目，框架选用react和redux，数据模拟使用easy-mock,   
+    数据交互使用axios，页面设计采用antd，基础技术采用 html5 css3 es6
